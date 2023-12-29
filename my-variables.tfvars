@@ -1,1 +1,1 @@
-image-id = "fd80bmc4panbqjamvuca"
+image-id = "<идентификатор_образа>"
